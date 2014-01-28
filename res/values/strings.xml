@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lovelace and Goldberg</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_last_1">Ada Lovelace</string>
+    <string name="first_last_2">Adele Goldberg</string>
+    <string name="bio_char_1">Daughter of famed poet Lord Byron, Augusta Ada Byron, Countess of Lovelace —better known as Ada Lovelace— was born in London on December 10, 1815. Ada showed her gift for mathematics at an early age. She translated an article on an invention by Charles Babbage, and added her own comments. Because she introduced many computer concepts, Ada is considered the first computer programmer. Ada died on November 27, 1852. (Sources: Wikipedia and image from www.biography.com)</string>
+    <string name="bio_char_2">Computer scientist born in Cleveland, Ohio (July 22, 1945), Adele Goldberg grew up in Chicago, Illinois. She is known notably for her participation in the development of the programming language Smalltalk-80 and various concepts related to object-oriented programming while a researcher at the Xerox Palo Alto Research Center, PARC, in the 1970s. (Sources: Wikipedia and image from www.drdobbs.com)</string>
+    <string name="ada_lovelace">Ada Lovelace</string>
+    <string name="adele_goldberg">Adele Goldberg with a XEROX computer</string>
+
+</resources>
